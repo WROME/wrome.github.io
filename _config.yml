@@ -1,0 +1,9 @@
+# Site settings
+title: Workshops on Runtime and Operating Systems for the Many-core Era
+tag_text: ROME
+description: 
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
