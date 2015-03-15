@@ -7,7 +7,7 @@ permalink: /vienna2015/
 
 ### held in conjunction with [Euro-Par 2015](http://www.europar2015.org/ "Euro-Par 2015"), August 24 - August 28, 2015, Vienna, Austria
 
-![Vienna Opera](/images/opera.jpg)
+![Vienna Opera](/ROME/images/opera.jpg)
 
 Photo by [Markus Leupold-Löwenthal](http://commons.wikimedia.org/wiki/File:StateOperaViennaNightBackside.jpg) [[CC BY-SA 3.0]](http://creativecommons.org/licenses/by-sa/3.0)
 
@@ -17,8 +17,8 @@ Photo by [Markus Leupold-Löwenthal](http://commons.wikimedia.org/wiki/File:Stat
 
 #### History
 
-1. [ROME 2013](http://www.rome.eonerc.rwth-aachen.de/aachen2013/)
-2. [ROME 2014](http://www.rome.eonerc.rwth-aachen.de/porto2014/)
+1. [Workshop on Runtime and Operating Systems for the Many-core Era](http://www.rome.eonerc.rwth-aachen.de/aachen2013/)
+2. [Workshop on Runtime and Operating Systems for the Many-core Era](http://www.rome.eonerc.rwth-aachen.de/porto2014/)
 
 #### Background
 
