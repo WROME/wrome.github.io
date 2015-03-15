@@ -17,8 +17,8 @@ Photo by [Markus Leupold-Löwenthal](http://commons.wikimedia.org/wiki/File:Stat
 
 #### History
 
-1. [Workshop on Runtime and Operating Systems for the Many-core Era](http://www.rome.eonerc.rwth-aachen.de/aachen2013/)
-2. [Workshop on Runtime and Operating Systems for the Many-core Era](http://www.rome.eonerc.rwth-aachen.de/porto2014/)
+1. [Workshop on Runtime and Operating Systems for the Many-core Era (ROME 2013)](http://www.rome.eonerc.rwth-aachen.de/aachen2013/)
+2. [Workshop on Runtime and Operating Systems for the Many-core Era (ROME 2014)](http://www.rome.eonerc.rwth-aachen.de/porto2014/)
 
 #### Background
 
