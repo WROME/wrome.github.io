@@ -1,24 +1,15 @@
 ---
-layout: default
-title : ROME 2015
-permalink: /vienna2015/
+layout: page
+title: "ROME 2015"
+description: "3rd Workshop on Runtime and Operating Systems for the Many-core Era"
+header-img: "img/vienna.jpg"
 ---
-## 3rd Workshop on Runtime and Operating Systems for the Many-core Era
 
 ### held in conjunction with [Euro-Par 2015](http://www.europar2015.org/ "Euro-Par 2015"), August 24 - August 28, 2015, Vienna, Austria
 
-![Vienna Opera](/ROME/images/opera.jpg)
-
-Photo by [Markus Leupold-Löwenthal](http://commons.wikimedia.org/wiki/File:StateOperaViennaNightBackside.jpg) [[CC BY-SA 3.0]](http://creativecommons.org/licenses/by-sa/3.0)
-
 #### News
 
-* February 26, 2015: Workshop website is now open
-
-#### History
-
-1. [Workshop on Runtime and Operating Systems for the Many-core Era (ROME 2013)](http://www.rome.eonerc.rwth-aachen.de/aachen2013/)
-2. [Workshop on Runtime and Operating Systems for the Many-core Era (ROME 2014)](http://www.rome.eonerc.rwth-aachen.de/porto2014/)
+* February 26, 2015: Workshop website is now open<br>Photo by [Markus Leupold-Löwenthal](http://commons.wikimedia.org/wiki/File:StateOperaViennaNightBackside.jpg) [[CC BY-SA 3.0]](http://creativecommons.org/licenses/by-sa/3.0)
 
 #### Background
 
@@ -75,6 +66,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Christos Kartsaklis, Oak Ridge National Laboratory, USA
 * Timothy G. Mattson, Intel Labs, USA
 * Jörg Nolte, BTU Cottbus, Germany
+* Michael Riepen, IAV GmbH, Germany
 * Bettina Schnor, University of Potsdam, Germany
 * Christian Terboven, RWTH Aachen Univeristy, Germany
 * Theo Ungerer, Universität Augsburg, Germany
