@@ -150,7 +150,7 @@ proceedings of Euro-Par 2013, part of the LNCS series of Springer.
 
 #### Important Dates
 
-* ~~May 31, 2013~~ **June 10, 2013**: Submission deadline
+* <strike>May 31, 2013</strike> **June 10, 2013**: Submission deadline
 *  July 8, 2013: Notification of acceptance
 *  August 15, 2013: Camera ready, revised papers due
 *  August 26, 2013: ROME 2013 Workshop
