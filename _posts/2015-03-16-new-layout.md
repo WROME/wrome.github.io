@@ -8,5 +8,5 @@ header-img: "img/rome.jpg"
 
 ### New layout
 
-We create a new layout for ROME's  website, which is derived from *Start Bootstrap's* theme [Clean Blog](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/).
+We create a new layout for the workshop  website, which is derived from *Start Bootstrap's* theme [Clean Blog](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/).
 The code is published at [GitHub](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll).
