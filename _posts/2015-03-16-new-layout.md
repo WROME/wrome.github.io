@@ -3,7 +3,7 @@ layout:     post
 title:      "New layout of the website"
 date:       2015-03-16 12:00:00
 author:     "Stefan Lankes"
-header-img: "img/vienna.jpg"
+header-img: "img/rome.jpg"
 ---
 
 ### New layout
