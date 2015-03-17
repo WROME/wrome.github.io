@@ -3,14 +3,17 @@ title: ROME
 header-img: img/rome.jpg
 email: slankes@eonerc.rwth-aachen.de
 description: "Workshop on Runtime and Operating Systems for the Many-core Era"
-baseurl: "/ROME"
+#baseurl: "/ROME"
 url: "http://rwth-acs.github.io"
 #twitter_username: SBootstrap
 #github_username:  davidtmiller
 #facebook_username:  IronSummitMedia
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 highlighter: pygments
 permalink: pretty
 paginate: 5
