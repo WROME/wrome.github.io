@@ -22,7 +22,7 @@ header-img: "img/aachen.jpg"
 * July 12, 2013: Publishing the preliminary program, the keynote
   will be delivered by Tim Mattson, PhD, Intel Corp.
 * April 16, 2013: Submission is now open
-* March 1, 2013: Workshop website is now open<br>Photo by [ChristosV](https://commons.wikimedia.org/wiki/File:St.michael-und-dimitrios-aachen_01.JPG) [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)
+* March 1, 2013: Workshop website is now open<br>Photo by ChristosV [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St.michael-und-dimitrios-aachen_01.JPG)
 
 #### Background
 
@@ -150,10 +150,10 @@ proceedings of Euro-Par 2013, part of the LNCS series of Springer.
 
 #### Important Dates
 
-* -(May 31, 2013)- **June 10, 2013**: Submission deadline
-*  July 8, 2013: Notification of acceptance
-*  August 15, 2013: Camera ready, revised papers due
-*  August 26, 2013: ROME 2013 Workshop
+* ~~May 31, 2013~~ **June 10, 2013**: Submission deadline
+* July 8, 2013: Notification of acceptance
+* August 15, 2013: Camera ready, revised papers due
+* August 26, 2013: ROME 2013 Workshop
 
 #### Committees
 

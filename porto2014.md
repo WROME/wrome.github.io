@@ -15,7 +15,7 @@ header-img: "img/porto.jpg"
   delivered by [Norbert Eicker](http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/eicker_n.htm)
   from Jülich Supercomputing Centre (JSC), Germany.
 * March 11, 2014: Submission is now open
-* February 27, 2014: Workshop website is now open<br>Photo by [Marrovi](https://commons.wikimedia.org/wiki/File:Oporto_12.JPG) [CC BY-SA 2.5 mx](http://creativecommons.org/licenses/by-sa/2.5/mx/deed.en)
+* February 27, 2014: Workshop website is now open<br>Photo by Marrovi [[CC BY-SA 2.5 mx](http://creativecommons.org/licenses/by-sa/2.5/mx/deed.en)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oporto_12.JPG)
 
 #### Background
 
