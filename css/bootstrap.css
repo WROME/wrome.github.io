@@ -1090,7 +1090,7 @@ textarea {
 }
 a {
   color: #337ab7;
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 a:hover,
 a:focus {
@@ -4163,6 +4163,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
+  text-decoration: none;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
