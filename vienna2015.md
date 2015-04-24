@@ -9,6 +9,7 @@ header-img: "img/vienna.jpg"
 
 #### News
 
+*April 24, 2015: The workshop is scheduled to August 25, 2015.
 * February 26, 2015: Workshop website is now open<br>Photo by Markus Leupold-Löwenthal [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], [via Wikimedia Commons](http://commons.wikimedia.org/wiki/File:StateOperaViennaNightBackside.jpg)
 
 #### Background
