@@ -53,7 +53,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 
 #### Important Dates
 
-* May 22, 2015: Submission deadline
+* ~~May 22, 2015~~ **June 2, 2015**: Submission deadline
 * June 19, 2015: Notification of acceptance
 * July 31, 2015: Workshop paper (for informal workshop proceedings)
 * October 2, 2015: Workshop camera-ready papers due
