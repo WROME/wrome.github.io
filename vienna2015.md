@@ -9,7 +9,7 @@ header-img: "img/vienna.jpg"
 
 #### News
 
-* May 21, 2015: The keynote with the title *A Microkernel-based Operating System for Exascale Computing* will be delivered by Dr. Carsten Weinhold, TU Dresden, Germany.
+* May 21, 2015: The keynote with the title *"A Microkernel-based Operating System for Exascale Computing"* will be delivered by Dr. Carsten Weinhold, TU Dresden, Germany.
 * May 19, 2015: Submission deadline extended to June 2, 2015.
 * April 24, 2015: The workshop is scheduled to August 25, 2015.
 * February 26, 2015: Workshop website is now open<br>Photo by Markus Leupold-Löwenthal [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], [via Wikimedia Commons](http://commons.wikimedia.org/wiki/File:StateOperaViennaNightBackside.jpg)
