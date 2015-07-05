@@ -5,9 +5,9 @@ description: "1st Workshop on Runtime and Operating Systems for the Many-core Er
 header-img: "img/aachen.jpg"
 ---
 
-### held in conjunction with [Euro-Par 2013](http://www.europar2013.org/), August 26 - August 30, 2013 Aachen, Germany
+## held in conjunction with [Euro-Par 2013](http://www.europar2013.org/), August 26 - August 30, 2013 Aachen, Germany
 
-#### News
+### News
 
 * April 10, 2014: The Euro-Par 2013 Workshop Proceedings are now
   online at Springer-Link:
@@ -24,7 +24,7 @@ header-img: "img/aachen.jpg"
 * April 16, 2013: Submission is now open
 * March 1, 2013: Workshop website is now open<br>Photo by ChristosV [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St.michael-und-dimitrios-aachen_01.JPG)
 
-#### Background
+### Background
 
 Since the beginning of the multicore era, parallel processing has
 become prevalent across the board. However, in order to continue a
@@ -45,7 +45,7 @@ traditional approaches and to wage new programming models and OS
 designs in order to exploit the theoretically available performance as
 effectively as possible.
 
-#### Topics
+### Topics
 
 The focus of this workshop stands in the tradition of a successful
 series of events hosted by the Many-core Applications Research
@@ -67,7 +67,7 @@ papers regarding software for novel many-core hardware architectures.
 * Bare-metal programming and system software
 * Power-aware many-core computing
 
-#### Program
+### Program
 
 The workshop takes place in the room *Super C - Generali* on Monday,
 August 26, 2013. It is scheduled as full-day workshop. A detail
@@ -131,7 +131,7 @@ booklet](http://www.europar2013.org/program-booklet-now-online.html).
   Communication for PCIe based Clusters*
 * 18:00 - 18:10: Closing
 
-#### Paper Submission, Registration, and Publication
+### Paper Submission, Registration, and Publication
 
 Workshop papers must not exceed **ten** single-spaced, single-column
 pages ([LNCS style](ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip)).
@@ -148,14 +148,14 @@ For the workshop, we will prepare hand-outs with the revised papers.
 These will be published after the conference in the workshop
 proceedings of Euro-Par 2013, part of the LNCS series of Springer.
 
-#### Important Dates
+### Important Dates
 
 * ~~May 31, 2013~~ **June 10, 2013**: Submission deadline
 * July 8, 2013: Notification of acceptance
 * August 15, 2013: Camera ready, revised papers due
 * August 26, 2013: ROME 2013 Workshop
 
-#### Committees
+### Committees
 
 * Carsten Clauss, RWTH Aachen University
 * Wolfgang Karl, Karlsruhe Institute of Technology
@@ -171,7 +171,7 @@ proceedings of Euro-Par 2013, part of the LNCS series of Springer.
 * Theo Ungerer, Universität Augsburg
 * Josef Weidendorfer, TU München
 
-#### Workshop Organizers
+### Workshop Organizers
 
 * Dr. rer. nat. Stefan Lankes, Dr.-Ing. Carsten Clauss,
   Chair for Operating Systems, RWTH Aachen University

@@ -5,9 +5,9 @@ description: "2nd Workshop on Runtime and Operating Systems for the Many-core Er
 header-img: "img/porto.jpg"
 ---
 
-### held in conjunction with [Euro-Par 2014](http://europar2014.dcc.fc.up.pt), August 25 - August 29, 2014 Porto, Portugal
+## held in conjunction with [Euro-Par 2014](http://europar2014.dcc.fc.up.pt), August 25 - August 29, 2014 Porto, Portugal
 
-#### News
+### News
 
 * July 11, 2014: Publishing the preliminary program
 * April 25, 2014: The keynote with the title *Running DEEP –
@@ -17,7 +17,7 @@ header-img: "img/porto.jpg"
 * March 11, 2014: Submission is now open
 * February 27, 2014: Workshop website is now open<br>Photo by Marrovi [[CC BY-SA 2.5 mx](http://creativecommons.org/licenses/by-sa/2.5/mx/deed.en)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oporto_12.JPG)
 
-#### Background
+### Background
 
 Since the beginning of the multicore era, parallel processing has
 become prevalent across the board. However, in order to continue a
@@ -47,7 +47,7 @@ series has been continued by the 1st ROME workshop at the Euro-Par
 2013 conference as a thematically related follow-up event for a
 broader audience.
 
-#### Topics
+### Topics
 
 This year, too, authors from all related disciplines are invited to
 submit unpublished papers regarding software for novel many-core
@@ -70,7 +70,7 @@ include, but are not limited to:
 * Bare-metal programming and system software
 * Power-aware many-core computing
 
-#### Program
+### Program
 
 The workshop takes place in the *room 5* on Tuesday, August 26, 2014.
 It is scheduled as half-day workshop.
@@ -94,7 +94,7 @@ It is scheduled as half-day workshop.
 * 12:00 - 12:30: Stefan Nürnberger, Gabor Drescher, Randolf Rotta,
   Jörg Nolte and Wolfgang Schröder-Preikschat, [Shared Memory in the Many-Core Age](/slides/rome_stefan.pdf)
 
-#### Paper Submission, Registration, and Publication
+### Paper Submission, Registration, and Publication
 
 Workshop papers must not exceed **twelve** single-spaced,
 single-column pages ([LNCS style](ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip)).
@@ -111,14 +111,14 @@ The revised versions will be published after the conference in the
 workshop proceedings of Euro-Par 2014, part of the LNCS series of
 Springer.
 
-#### Important Dates
+### Important Dates
 
 * May 30, 2014: Submission deadline
 * July 4, 2014: Notification of acceptance
 * July 25, 2014: Workshop early registration
 * October 3, 2014: Workshop camera-ready papers due
 
-#### Program Committee
+### Program Committee
 
 * Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
 * Stefan Lankes, RWTH Aachen University, Germany
@@ -134,7 +134,7 @@ Springer.
 * Theo Ungerer, Universität Augsburg, Germany
 * Josef Weidendorfer, TU München, Germany
 
-#### Workshop Organizers
+### Workshop Organizers
 
 * **Dr. rer. nat. Stefan Lankes**, Institute for Automation of Complex Power Systems, [E.ON Energy Research Center](http://www.eonerc.rwth-aachen.de), [RWTH Aachen
   University](http://www.rwth-aachen.de), E-mail: <slankes@eonerc.rwth-aachen.de>
