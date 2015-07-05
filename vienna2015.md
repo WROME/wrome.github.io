@@ -9,6 +9,7 @@ header-img: "img/vienna.jpg"
 
 #### News
 
+* July 5, 2015: Publishing the preliminary program
 * May 21, 2015: The keynote with the title *"A Microkernel-based Operating System for Exascale Computing"* will be delivered by Dr. Carsten Weinhold, TU Dresden, Germany.
 * May 19, 2015: Submission deadline extended to June 2, 2015.
 * April 24, 2015: The workshop is scheduled to August 25, 2015.
@@ -41,9 +42,23 @@ This year, too, authors from all related disciplines are invited to submit unpub
 * Bare-metal programming and system software
 * Power-aware many-core computing
 
-#### Program
+#### (Tentative) Program
 
-TBD
+The workshop is scheduled on Tuesday, August 25, 2015, as half-day workshop.
+
+** Session 1 **
+
+* 09:00 - 09:05: *Welcome speech and announcements*
+* 09:05 - 10:00: Invited talk by Carsten Weinhold, TU Dresden, Germany, *A Microkernel-based Operating System for Exascale Computing*
+* 10:00 - 10:30: Stefan Nürnberger, Randolf Rotta, Gabor Drescher, Daniel Danner and Jörg Nolte, *Diamond Rings: Acknowledged Event Propagation in Many-Core Processors*
+
+** Coffee break **
+
+** Session 2 **
+
+* 11:00 - 11:30: Juan Carlos Saez, Jorge Casas, Abel Serrano, Roberto Rodríguez-Rodríguez, Fernando Castro, Daniel Chaver and Manuel Prieto-Matias, *An OS-oriented performance monitoring tool for multicore systems*
+* 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, *A Performance Analysis Tool for Parallel Application Placement on Hierarchical Architectures*
+* 12:00 - 12:30: Angelos Papatriantafyllou, *Energy Characterization and Optimization of Parallel Prefix-Sums Kernels*
 
 #### Paper Submission, Registration, and Publication
 
