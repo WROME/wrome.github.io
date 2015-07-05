@@ -87,7 +87,7 @@ booklet](http://www.europar2013.org/program-booklet-now-online.html).
 
 **Coffee Break**
 
-**Session 2: (Scheduling and Load Balancing, Chair: Michael Riepen)**
+**Session 2 (Scheduling and Load Balancing, Chair: Michael Riepen)**
 
 * 11:00 - 11:30: Marcus Völp and Michael Roitzsch,
   *Elastic Manycores - How to bring the OS back into the scheduling
