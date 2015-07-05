@@ -84,7 +84,7 @@ It is scheduled as half-day workshop.
 
 **Coffee Break**
 
-**Session 2:**
+**Session 2**
 
 * 11:00 - 11:30: Juan Carlos Saez, Adrian Pousa, Fernando Castro,
   Daniel Chaver and Manuel Prieto, [Exploring the Throughput-Fairness Trade-off on Asymmetric

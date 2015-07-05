@@ -46,15 +46,15 @@ This year, too, authors from all related disciplines are invited to submit unpub
 
 The workshop is scheduled on Tuesday, August 25, 2015, as half-day workshop.
 
-** Session 1 **
+**Session 1**
 
 * 09:00 - 09:05: *Welcome speech and announcements*
 * 09:05 - 10:00: Invited talk by Carsten Weinhold, TU Dresden, Germany, *A Microkernel-based Operating System for Exascale Computing*
 * 10:00 - 10:30: Stefan Nürnberger, Randolf Rotta, Gabor Drescher, Daniel Danner and Jörg Nolte, *Diamond Rings: Acknowledged Event Propagation in Many-Core Processors*
 
-** Coffee break **
+**Coffee break**
 
-** Session 2 **
+**Session 2**
 
 * 11:00 - 11:30: Juan Carlos Saez, Jorge Casas, Abel Serrano, Roberto Rodríguez-Rodríguez, Fernando Castro, Daniel Chaver and Manuel Prieto-Matias, *An OS-oriented performance monitoring tool for multicore systems*
 * 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, *A Performance Analysis Tool for Parallel Application Placement on Hierarchical Architectures*
