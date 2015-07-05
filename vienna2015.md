@@ -42,6 +42,7 @@ This year, too, authors from all related disciplines are invited to submit unpub
 * Bare-metal programming and system software
 * Power-aware many-core computing
 
+
 #### (Tentative) Program
 
 The workshop is scheduled on Tuesday, August 25, 2015, as half-day workshop.
@@ -59,6 +60,7 @@ The workshop is scheduled on Tuesday, August 25, 2015, as half-day workshop.
 * 11:00 - 11:30: Juan Carlos Saez, Jorge Casas, Abel Serrano, Roberto Rodríguez-Rodríguez, Fernando Castro, Daniel Chaver and Manuel Prieto-Matias, *An OS-oriented performance monitoring tool for multicore systems*
 * 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, *A Performance Analysis Tool for Parallel Application Placement on Hierarchical Architectures*
 * 12:00 - 12:30: Angelos Papatriantafyllou, *Energy Characterization and Optimization of Parallel Prefix-Sums Kernels*
+
 
 #### Paper Submission, Registration, and Publication
 
