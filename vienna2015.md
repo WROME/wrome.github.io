@@ -42,7 +42,7 @@ This year, too, authors from all related disciplines are invited to submit unpub
 * Bare-metal programming and system software
 * Power-aware many-core computing
 
-### (Tentative) Program
+### Program
 
 The workshop is scheduled on Tuesday, August 25, 2015, as half-day workshop.
 
@@ -66,7 +66,7 @@ Workshop papers must not exceed **twelve** single-spaced, single-column pages (L
 
 Upload your submission to our [submission server](http://www.easychair.org/conferences/?conf=europar2015ws "Submission server") in PDF format. It must not be simultaneously submitted to the main conference or any other publication outlet.
 
-For the workshop, we will prepare hand-outs with the accepted papers. The revised versions will be published after the conference in the workshop proceedings of Euro-Par 2015, part of the LNCS series of Springer. 
+For the workshop, we will prepare hand-outs with the accepted papers. The revised versions will be published after the conference in the workshop proceedings of Euro-Par 2015, part of the LNCS series of Springer.
 
 ### Important Dates
 
