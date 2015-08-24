@@ -80,8 +80,8 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Jens Breitbart, TU M&uuml;nchen, Germany
 * André Brinkmann, Johannes Gutenberg Universität, Germany
 * Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
-* Stefan Lankes, RWTH Aachen University, Germany
 * Christos Kartsaklis, Oak Ridge National Laboratory, USA
+* Stefan Lankes, RWTH Aachen University, Germany
 * Timothy G. Mattson, Intel Labs, USA
 * Jörg Nolte, BTU Cottbus, Germany
 * Michael Riepen, IAV GmbH, Germany
