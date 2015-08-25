@@ -50,15 +50,15 @@ The workshop is scheduled on Tuesday, August 25, 2015, in room EI 4 as half-day 
 
 * 09:00 - 09:05: *Welcome speech and announcements*
 * 09:05 - 10:00: Invited talk by Carsten Weinhold, TU Dresden, Germany, *A Microkernel-based Operating System for Exascale Computing*
-* 10:00 - 10:30: Stefan Nürnberger, Randolf Rotta, Gabor Drescher, Daniel Danner and Jörg Nolte, *Diamond Rings: Acknowledged Event Propagation in Many-Core Processors*
+* 10:00 - 10:30: Stefan Nürnberger, Randolf Rotta, Gabor Drescher, Daniel Danner and Jörg Nolte, [Diamond Rings](/slides/rome15_nuernberger.pdf): Acknowledged Event Propagation in Many-Core Processors*
 
 **Coffee break**
 
 **Session 2**
 
-* 11:00 - 11:30: Juan Carlos Saez, Jorge Casas, Abel Serrano, Roberto Rodríguez-Rodríguez, Fernando Castro, Daniel Chaver and Manuel Prieto-Matias, *An OS-oriented performance monitoring tool for multicore systems*
-* 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, *A Performance Analysis Tool for Parallel Application Placement on Hierarchical Architectures*
-* 12:00 - 12:30: Angelos Papatriantafyllou, *Energy Characterization and Optimization of Parallel Prefix-Sums Kernels*
+* 11:00 - 11:30: Juan Carlos Saez, Jorge Casas, Abel Serrano, Roberto Rodríguez-Rodríguez, Fernando Castro, Daniel Chaver and Manuel Prieto-Matias, [An OS-oriented performance monitoring tool for multicore systems](/slides/rome15_saez.pdf)
+* 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, [A Performance Analysis Tool for Parallel Application Placement on Hierarchical Architectures](/slides/rome15_denoyelle.pdf)
+* 12:00 - 12:30: Angelos Papatriantafyllou, [Energy Characterization and Optimization of Parallel Prefix-Sums Kernels](/slides/rome15_angelos.pdf)
 
 ### Paper Submission, Registration, and Publication
 
