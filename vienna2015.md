@@ -50,7 +50,7 @@ The workshop is scheduled on Tuesday, August 25, 2015, in room EI 4 as half-day 
 
 * 09:00 - 09:05: *Welcome speech and announcements*
 * 09:05 - 10:00: Invited talk by Carsten Weinhold, TU Dresden, Germany, *A Microkernel-based Operating System for Exascale Computing*
-* 10:00 - 10:30: Stefan Nürnberger, Randolf Rotta, Gabor Drescher, Daniel Danner and Jörg Nolte, [Diamond Rings](/slides/rome15_nuernberger.pdf): Acknowledged Event Propagation in Many-Core Processors*
+* 10:00 - 10:30: Stefan Nürnberger, Randolf Rotta, Gabor Drescher, Daniel Danner and Jörg Nolte, [Diamond Rings: Acknowledged Event Propagation in Many-Core Processors](/slides/rome15_nuernberger.pdf)
 
 **Coffee break**
 
