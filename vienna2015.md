@@ -57,7 +57,7 @@ The workshop is scheduled on Tuesday, August 25, 2015, in room EI 4 as half-day 
 **Session 2**
 
 * 11:00 - 11:30: Juan Carlos Saez, Jorge Casas, Abel Serrano, Roberto Rodríguez-Rodríguez, Fernando Castro, Daniel Chaver and Manuel Prieto-Matias, [An OS-oriented performance monitoring tool for multicore systems](/slides/rome15_jcsaez.pdf)
-* 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, [A Performance Analysis Tool for Parallel Application Placement on Hierarchical Architectures](/slides/rome15_denoyelle.pdf)
+* 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, [A Topology-Aware Performance Monitoring Tool for Shared Resource Management in Multicore Systems](/slides/rome15_denoyelle.pdf)
 * 12:00 - 12:30: Angelos Papatriantafyllou, [Energy Characterization and Optimization of Parallel Prefix-Sums Kernels](/slides/rome15_angelos.pdf)
 
 ### Paper Submission, Registration, and Publication
