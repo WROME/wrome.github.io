@@ -46,15 +46,15 @@ This year, too, authors from all related disciplines are invited to submit unpub
 
 The workshop is scheduled on Tuesday, August 25, 2015, in room EI 4 as half-day workshop.
 
-**Session 1**
+**Session 1 (Chair: Stefan Lankes, RWTH Aachen University)**
 
-* 09:00 - 09:05: *Welcome speech and announcements*
+* 09:00 - 09:05: [Welcome speech and announcements](/slides/rome15_intro.pdf)
 * 09:05 - 10:00: Invited talk by Carsten Weinhold, TU Dresden, Germany, [A Microkernel-based Operating System for Exascale Computing](/slides/rome15_weinhold.pdf)
 * 10:00 - 10:30: Stefan Nürnberger, Randolf Rotta, Gabor Drescher, Daniel Danner and Jörg Nolte, [Diamond Rings: Acknowledged Event Propagation in Many-Core Processors](/slides/rome15_nuernberger.pdf)
 
 **Coffee break**
 
-**Session 2**
+**Session 2 (Chair: Jens Breitbart, TU München)**
 
 * 11:00 - 11:30: Juan Carlos Saez, Jorge Casas, Abel Serrano, Roberto Rodríguez-Rodríguez, Fernando Castro, Daniel Chaver and Manuel Prieto-Matias, [An OS-oriented performance monitoring tool for multicore systems](/slides/rome15_jcsaez.pdf)
 * 11:30 - 12:00: Nicolas Denoyelle, Brice Goglin and Emmanuel Jeannot, [A Topology-Aware Performance Monitoring Tool for Shared Resource Management in Multicore Systems](/slides/rome15_denoyelle.pdf)
