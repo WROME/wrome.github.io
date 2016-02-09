@@ -9,7 +9,7 @@ header-img: "img/grenoble.jpg"
 
 ### News
 
-* February 26, 2015: Workshop website is now open<br>Photo by Bertrand93 (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AMoucherotte_23_12_11_092_(2)_final.JPG)
+* February 9, 2016: Workshop website is now open<br>Photo by Bertrand93 (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AMoucherotte_23_12_11_092_(2)_final.JPG)
 
 ### Background
 
@@ -26,19 +26,13 @@ This year, too, authors from all related disciplines are invited to submit unpub
 * New approaches for operating systems on novel many-core architectures
 * Operating system extensions for addressing may-core related issues
 * Many-core aware runtime support for large-scale applications
-* Virtualization solutions to deal with hardware limitations
-* Tools for performance and energy consumption analysis on many-core systems
+* Bare-metal programming and system software for many-cores
 * Dealing with legacy software on novel many-core architectures
-* Experiences in porting, running, or developing many-core applications
+* Virtualization solutions to deal with hardware limitations on many-cores
 * Support for interactivity with and between many-core applications
-* Traditional and new programming models for novel many-core hardware
-* Concepts and methods for exploiting deep memory hierarchies
-* Operating system and file system designs for non-volatile memories
 * Heterogeneity- and/or hierarchy-aware many-core middleware
-* Software stacks for new concepts of compute acceleration
-* Bare-metal programming and system software
-* Interfaces for performance and power analysis on many-core systems
-* Runtime support for power-aware many-core computing
+* Concepts and methods for exploiting deep memory hierarchies
+* Operating system extensions for non-volatile memory support
 
 ### Program
 
@@ -48,7 +42,7 @@ This year, too, authors from all related disciplines are invited to submit unpub
 
 Workshop papers must not exceed **ten** single-spaced, single-column pages (LNCS style). On acceptance of the submission, at least one author is required to register for workshop attendance at Euro-Par 2016 and present the paper in the workshop session.
 
-Upload your submission to our [submission server](http://www.easychair.org/conferences/?conf=europar2016ws "Submission server") in PDF format. It must not be simultaneously submitted to the main conference or any other publication outlet.
+Upload your submission to our submission server in PDF format. The link to the server will be published soon. It must not be simultaneously submitted to the main conference or any other publication outlet.
 
 For the workshop, we will prepare hand-outs with the accepted papers. The revised versions will be published after the conference in the workshop proceedings of Euro-Par 2016, part of the LNCS series of Springer.
 
@@ -57,6 +51,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * May 6, 2016: Submission deadline
 * June 17, 2016: Notification of acceptance
 * July 31, 2016: Workshop paper (for informal workshop proceedings)
+* August 22/23, 2016: ROME'16 Workshop
 * October 3, 2016: Workshop camera-ready papers due
 
 ### Program Committee
