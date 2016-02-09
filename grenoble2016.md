@@ -33,6 +33,9 @@ This year, too, authors from all related disciplines are invited to submit unpub
 * Heterogeneity- and/or hierarchy-aware many-core middleware
 * Concepts and methods for exploiting deep memory hierarchies
 * Operating system extensions for non-volatile memory support
+* Software stacks for new concepts of compute acceleration on many-cores
+* Interfaces for performance and power analysis on many-core systems
+* Runtime support for power-aware many-core computing
 
 ### Program
 
