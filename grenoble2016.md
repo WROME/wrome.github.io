@@ -17,14 +17,16 @@ Since the beginning of the multicore era, parallel processing has become prevale
 
 However, the ROME workshop focuses on the software side because without complying system software, runtime and operating system support, all these new hardware facilities cannot be exploited. Hence, the new challenges in hardware/software co-design are to step beyond traditional approaches and to wage new programming models and operating system designs in order to exploit the theoretically available performance of future hardware as effectively and power-aware as possible.
 
-The focus of the ROME workshop stands in the tradition of a successful series of events originally hosted by the Many-core Applications Research Community (MARC). Prior MARC Symposia took place at ONERA research center in Toulouse, at the Hasso Plattner Institute in Potsdam and at the RWTH Aachen University. In 2013, the organizers continued this series by organizing the 1st ROME workshop at the Euro-Par 2013 in Aachen as a thematically related follow-up event for a broader audience. The tradition has again been pursued by holding the 2nd and 3rd ROME workshop in conjunction with the Euro-Par conference.
+The focus of the ROME workshop stands in the tradition of a successful series of events originally hosted by the Many-core Applications Research Community (MARC). Prior MARC Symposia took place at ONERA research center in Toulouse, at the Hasso Plattner Institute in Potsdam and at the RWTH Aachen University. Starting in 2013, the organizers continued this series by establishing ROME as one of the co-located workshops of the Euro-Par as the prime European conference for parallel and distributed computing.
+While the 1st ROME workshop, which was hosted at the Euro-Par 2013 in Aachen, was still a MARC-related follow-up event but for a broader audience, the 2nd ROME workshop, held in conjunction with the Euro-Par 2014 in Porto, already expanded its focus to research questions arising from a dawning many-core dominated exascale era.
+In 2015, this broader focus was essentially retained for the 3rd ROME workshop, which was held in conjunction with Euro-Par 2015 in Vienna, but the relevance of runtime and operating system aspects was stressed once again as being the primary scope of the ROME workshop series.
 
 ### Topics
 
 This year, too, authors from all related disciplines are invited to submit unpublished papers regarding software for novel many-core hardware architectures. The call for papers especially emphasizes on the challenges and research questions arising from the upcoming generation of heterogeneous and/or massive parallel systems stepping towards a many-core dominated exascale era. The topics of interest include, but are not limited to:
 
 * New approaches for operating systems on novel many-core architectures
-* Operating system extensions for addressing may-core related issues
+* Operating system extensions for addressing many-core related issues
 * Many-core aware runtime support for large-scale applications
 * Bare-metal programming and system software for many-cores
 * Dealing with legacy software on novel many-core architectures
