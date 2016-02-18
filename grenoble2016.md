@@ -68,7 +68,10 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Timothy G. Mattson, Intel Labs, USA
 * Jörg Nolte, BTU Cottbus, Germany
 * Andreas Polze, Hasso-Plattner-Institute, Germany
+* Bettina Schnor, University of Potsdam, Germany
 * Oliver Sinnen, University of Auckland, New Zealand
+* Christian Terboven, RWTH Aachen Univeristy, Germany
+
 * TBD
 
 ### Workshop Organizers
