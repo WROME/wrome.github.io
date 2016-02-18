@@ -61,6 +61,14 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 
 ### Program Committee
 
+* André Brinkmann, Johannes Gutenberg Universität, Germany
+* Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
+* Florian Kluge, Universität Augsburg, Germany
+* Stefan Lankes, RWTH Aachen University, Germany
+* Timothy G. Mattson, Intel Labs, USA
+* Jörg Nolte, BTU Cottbus, Germany
+* Andreas Polze, Hasso-Plattner-Institute, Germany
+* Oliver Sinnen, University of Auckland, New Zealand
 * TBD
 
 ### Workshop Organizers
