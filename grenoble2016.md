@@ -61,6 +61,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 
 ### Program Committee
 
+* Jens Breitbart, TU München, Germany
 * André Brinkmann, Johannes Gutenberg Universität, Germany
 * Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
 * Florian Kluge, Universität Augsburg, Germany
