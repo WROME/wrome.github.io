@@ -64,15 +64,16 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Jens Breitbart, TU München, Germany
 * André Brinkmann, Johannes Gutenberg Universität, Germany
 * Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
+* Christos Kartsaklis, Oak Ridge National Laboratory, USA
 * Florian Kluge, Universität Augsburg, Germany
 * Stefan Lankes, RWTH Aachen University, Germany
 * Timothy G. Mattson, Intel Labs, USA
 * Jörg Nolte, BTU Cottbus, Germany
+* Lena Oden, Argonne National Laboratory, USA
 * Andreas Polze, Hasso-Plattner-Institute, Germany
 * Bettina Schnor, University of Potsdam, Germany
 * Oliver Sinnen, University of Auckland, New Zealand
 * Christian Terboven, RWTH Aachen Univeristy, Germany
-* TBD
 
 ### Workshop Organizers
 
