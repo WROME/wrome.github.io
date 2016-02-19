@@ -77,18 +77,18 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 
 ### Program Committee
 
-* Jens Breitbart, TU M&uuml;nchen, Germany
-* André Brinkmann, Johannes Gutenberg Universität, Germany
-* Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
-* Christos Kartsaklis, Oak Ridge National Laboratory, USA
-* Stefan Lankes, RWTH Aachen University, Germany
-* Timothy G. Mattson, Intel Labs, USA
-* Jörg Nolte, BTU Cottbus, Germany
-* Michael Riepen, IAV GmbH, Germany
-* Bettina Schnor, University of Potsdam, Germany
-* Christian Terboven, RWTH Aachen Univeristy, Germany
-* Theo Ungerer, Universität Augsburg, Germany
-* Josef Weidendorfer, TU München, Germany
+* Jens Breitbart, TU M&uuml;nchen
+* André Brinkmann, Johannes Gutenberg Universität
+* Carsten Clauss, ParTec Cluster Competence Center GmbH
+* Christos Kartsaklis, Oak Ridge National Laboratory
+* Stefan Lankes, RWTH Aachen University
+* Timothy G. Mattson, Intel Labs
+* Jörg Nolte, BTU Cottbus
+* Michael Riepen, IAV GmbH
+* Bettina Schnor, University of Potsdam
+* Christian Terboven, RWTH Aachen Univeristy
+* Theo Ungerer, Universität Augsburg
+* Josef Weidendorfer, TU München
 
 ### Workshop Organizers
 
