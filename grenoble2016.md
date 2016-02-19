@@ -74,6 +74,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Bettina Schnor, University of Potsdam
 * Oliver Sinnen, University of Auckland
 * Christian Terboven, RWTH Aachen University
+* Josef Weidendorfer, TU München
 * Carsten Weinhold, TU Dresden
 
 ### Workshop Organizers
