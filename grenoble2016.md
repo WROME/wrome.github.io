@@ -73,7 +73,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Andreas Polze, Hasso-Plattner-Institute
 * Bettina Schnor, University of Potsdam
 * Oliver Sinnen, University of Auckland
-* Christian Terboven, RWTH Aachen Univeristy
+* Christian Terboven, RWTH Aachen University
 * Carsten Weinhold, TU Dresden
 
 ### Workshop Organizers
