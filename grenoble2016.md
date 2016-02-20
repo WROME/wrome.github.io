@@ -32,6 +32,7 @@ This year, too, authors from all related disciplines are invited to submit unpub
 * Dealing with legacy software on novel many-core architectures
 * Virtualization solutions to deal with hardware limitations on many-cores
 * Support for interactivity with and between many-core applications
+* Message-passing interfaces and middleware for many-core systems 
 * Heterogeneity- and/or hierarchy-aware many-core middleware
 * Concepts and methods for exploiting deep memory hierarchies
 * Operating system extensions for non-volatile memory support
