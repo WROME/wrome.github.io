@@ -72,6 +72,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Jörg Nolte, BTU Cottbus
 * Lena Oden, Argonne National Laboratory
 * Andreas Polze, Hasso-Plattner-Institute
+* Pablo Reble, RWTH Aachen University
 * Bettina Schnor, University of Potsdam
 * Oliver Sinnen, University of Auckland
 * Christian Terboven, RWTH Aachen University
