@@ -71,6 +71,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Timothy G. Mattson, Intel Labs
 * Jörg Nolte, BTU Cottbus
 * Lena Oden, Argonne National Laboratory
+* Antonio J. Peña, Barcelona Supercomputing Center
 * Andreas Polze, Hasso-Plattner-Institute
 * Pablo Reble, RWTH Aachen University
 * Bettina Schnor, University of Potsdam
