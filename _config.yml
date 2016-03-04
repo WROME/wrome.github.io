@@ -9,13 +9,12 @@ url: http://wrome.github.io
 #facebook_username:  IronSummitMedia
 
 # Build settings
-#markdown: kramdown
-#kramdown:
-#   input: GFM
-#   hard_wrap: false
-#markdown: redcarpet
-#redcarpet:
-#  extensions: ["strikethrough"]
+markdown: kramdown
+
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: true
+
 highlighter: rouge
 permalink: pretty
 paginate: 5
