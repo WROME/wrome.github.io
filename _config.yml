@@ -9,8 +9,8 @@ url: http://wrome.github.io
 #facebook_username:  IronSummitMedia
 
 # Build settings
-markdown: kramdown
-#markdown: redcarpet
+#markdown: kramdown
+markdown: redcarpet
 redcarpet:
   extensions: ["strikethrough"]
 highlighter: rouge
