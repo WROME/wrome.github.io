@@ -46,7 +46,7 @@ This year, too, authors from all related disciplines are invited to submit unpub
 
 ### Paper Submission, Registration, and Publication
 
-Workshop papers must not exceed **ten** single-spaced, single-column pages (LNCS style). On acceptance of the submission, at least one author is required to register for workshop attendance at Euro-Par 2016 and present the paper in the workshop session.
+Workshop papers must not exceed ~~ten~~ **twelve** single-spaced, single-column pages (LNCS style). On acceptance of the submission, at least one author is required to register for workshop attendance at Euro-Par 2016 and present the paper in the workshop session.
 
 Upload your submission to our [submission server](https://easychair.org/conferences/?conf=europar2016ws) in PDF format. The link to the server will be published soon. It must not be simultaneously submitted to the main conference or any other publication outlet.
 
