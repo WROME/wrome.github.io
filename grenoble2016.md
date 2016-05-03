@@ -8,6 +8,7 @@ header-img: "img/grenoble.jpg"
 ## held in conjunction with [Euro-Par 2016](https://europar2016.inria.fr "Euro-Par 2016"), August 22 - August 26, 2016, Grenoble, France
 
 ### News
+* May 3, 2016: Submission deadline extended to May 16, 2016.
 * March 10, 2016: The keynote with the title *"Extreme-Scale Operating Systems"* will be delivered by Rolf Riesen, Ph.D., Intel
 * February 9, 2016: Workshop website is now open<br>Photo by Bertrand93 (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AMoucherotte_23_12_11_092_(2)_final.JPG)
 
@@ -54,7 +55,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 
 ### Important Dates
 
-* May 6, 2016: Submission deadline
+* <del>May 6</del> **May 16**, 2016: Submission deadline
 * June 17, 2016: Notification of acceptance
 * July 31, 2016: Workshop paper (for informal workshop proceedings)
 * August 22/23, 2016: ROME'16 Workshop
