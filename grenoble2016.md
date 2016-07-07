@@ -49,7 +49,7 @@ The workshop is scheduled on Tuesday, August 23, 2016, in room 6 as half-day wor
 **Session 1**
 
 * 13:30 - 13:35: Welcome speech and announcements
-* 13:35 - 14:20: Rolf Riesen: *Extreme-Scale Operating Systems*
+* 13:35 - 14:20: Rolf Riesen: *Extreme-Scale Operating Systems* (keynote)
 
 **Short break**
 
@@ -64,7 +64,7 @@ The workshop is scheduled on Tuesday, August 23, 2016, in room 6 as half-day wor
 **Session 3**
 
 * 16:30 - 17:00: Jens Breitbart, Simon Pickartz, Josef Weidendorfer and Antonello Monti: *Viability of Virtual Machines in HPC*
-* 17:00 - 17:30: Josef Weidendorfer: *DBrew - A library for dynamic binary rewriting*
+* 17:00 - 17:30: Josef Weidendorfer: *DBrew - A library for dynamic binary rewriting* (invited talk)
 
 
 ### Paper Submission, Registration, and Publication
