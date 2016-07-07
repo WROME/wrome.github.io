@@ -8,6 +8,7 @@ header-img: "img/grenoble.jpg"
 ## held in conjunction with [Euro-Par 2016](https://europar2016.inria.fr "Euro-Par 2016"), August 22 - August 26, 2016, Grenoble, France
 
 ### News
+* July 7, 2016: Publishing the preliminary program
 * May 3, 2016: Submission deadline extended to May 16, 2016.
 * March 10, 2016: The keynote with the title *"Extreme-Scale Operating Systems"* will be delivered by Rolf Riesen, Ph.D., Intel
 * February 9, 2016: Workshop website is now open<br>Photo by Bertrand93 (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AMoucherotte_23_12_11_092_(2)_final.JPG)
