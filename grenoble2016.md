@@ -55,13 +55,13 @@ This year, too, authors from all related disciplines are invited to submit unpub
 
 * 14:30 - 15:00: Mathias Gottschlag and Frank Bellosa: *Reducing Response Time with Preheated Caches*
 * 15:00 - 15:30: Randolf Rotta, Robert Kuban, Mark Simon Schöps and Jörg Nolte: *Dealing with Layers of Obfuscation in pseudo-Uniform Memory Architectures*
-* 15:30 - 16:00: Jens Breitbart, Simon Pickartz, Josef Weidendorfer and Antonello Monti: *Viability of Virtual Machines in HPC*
+* 15:30 - 16:00: Amin Jadidi, Mohammad Arjomand, Mahmut Kandemir and Chita Das: *Energy Optimization in GPGPUs by Run-Time Kernel Characterization*
 
 **Coffee Break**
 
 **Session 3**
 
-* 16:30 - 17:00: Amin Jadidi, Mohammad Arjomand, Mahmut Kandemir and Chita Das: *Energy Optimization in GPGPUs by Run-Time Kernel Characterization*
+* 16:30 - 17:00: Jens Breitbart, Simon Pickartz, Josef Weidendorfer and Antonello Monti: *Viability of Virtual Machines in HPC*
 * 17:00 - 17:30: Josef Weidendorfer: *DBrew - A library for dynamic binary rewriting*
 
 
