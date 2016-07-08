@@ -57,7 +57,7 @@ The workshop is scheduled on Tuesday, August 23, 2016, in room 6 as half-day wor
 
 * 14:30 - 15:00: Mathias Gottschlag and Frank Bellosa: *Reducing Response Time with Preheated Caches*
 * 15:00 - 15:30: Randolf Rotta, Robert Kuban, Mark Simon Schöps and Jörg Nolte: *Dealing with Layers of Obfuscation in pseudo-Uniform Memory Architectures*
-* 15:30 - 16:00: Amin Jadidi, Mohammad Arjomand, Mahmut Kandemir and Chita Das: *Energy Optimization in GPGPUs by Run-Time Kernel Characterization*
+* 15:30 - 16:00: Suyang Zhu, Sunita Chandrasekaran, Peng Sun, Barbara Chapman, Marcus Winter and Tobias Schuele: *Exploring Task Parallelism for Heterogeneous Systems Using Multicore Task Management API*
 
 **Coffee Break**
 
