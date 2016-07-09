@@ -9,6 +9,7 @@ header-img: "img/grenoble.jpg"
 
 ### News
 * July 7, 2016: Publishing the preliminary program
+* July 1, 2016: The workshop is scheduled to August 23, 2016.
 * May 3, 2016: Submission deadline extended to May 16, 2016.
 * March 10, 2016: The keynote with the title *"Extreme-Scale Operating Systems"* will be delivered by Rolf Riesen, Ph.D., Intel
 * February 9, 2016: Workshop website is now open<br>Photo by Bertrand93 (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AMoucherotte_23_12_11_092_(2)_final.JPG)
