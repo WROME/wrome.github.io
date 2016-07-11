@@ -45,7 +45,7 @@ This year, too, authors from all related disciplines are invited to submit unpub
 
 ### Program
 
-The workshop is scheduled on Tuesday, August 23, 2016, in room 6 as half-day workshop.
+The workshop is scheduled on Tuesday, August 23, 2016, in room 2015 as half-day workshop.
 
 **Session 1**
 
