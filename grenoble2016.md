@@ -49,7 +49,7 @@ The workshop is scheduled on Tuesday, August 23, 2016, in room 215 as half-day w
 
 **Session 1**
 
-* 13:30 - 13:35: Welcome speech and announcements
+* 13:30 - 13:35: [Welcome speech and announcements](/slides/rome16_intro.pdf)
 * 13:35 - 14:20: Rolf Riesen: *Extreme-Scale Operating Systems* (keynote)
 
 **Short break**
