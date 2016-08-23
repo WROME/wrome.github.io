@@ -65,7 +65,7 @@ The workshop is scheduled on Tuesday, August 23, 2016, in **room 201** as half-d
 **Session 3**
 
 * 16:30 - 17:00: Jens Breitbart, Simon Pickartz, Josef Weidendorfer and Antonello Monti: [Viability of Virtual Machines in HPC](/slides/rome16_breitbart.pdf)
-* 17:00 - 17:30: Josef Weidendorfer: [DBrew - A library for dynamic binary rewriting](/slides/rome16_dbrew.pdf) (invited talk)
+* 17:00 - 17:30: Josef Weidendorfer: [DBrew - A library for dynamic binary rewriting](/slides/rome16-dbrew.pdf) (invited talk)
 
 
 ### Paper Submission, Registration, and Publication
