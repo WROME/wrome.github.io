@@ -45,7 +45,7 @@ TBD
 
 ### Paper Submission, Registration, and Publication
 
-Workshop papers must not exceed **twelve** single-spaced, single-column pages (LNCS style). On acceptance of the submission, at least one author is required to register for workshop attendance at Euro-Par 2017 and present the paper in the workshop session.
+Submissions in PDF format should be between 10–12 pages in the Springer LNCS style, which can be downloaded from the Springer Web  site <[ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip]>(ftp://ftp.springer.de/pub/tex/latex/llncs/latex2e/llncs2e.zip).The 12 pages limit is a hard limit. It includes everything (text, figures, references). On acceptance of the submission, at least one author is required to register for workshop attendance at Euro-Par 2017 and present the paper in the workshop session.
 
 Upload your submission to our [submission server](https://www.easychair.org/conferences/?conf=europar2017workshops) in PDF format. The link to the server will be published soon. It must not be simultaneously submitted to the main conference or any other publication outlet.
 
