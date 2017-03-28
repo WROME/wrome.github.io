@@ -59,16 +59,17 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 
 ### Program Committee
 
-* Jens Breitbart, TU München
-* Carsten Clauss, ParTec Cluster Competence Center GmbH
+* Jens Breitbart, Robert Bosch GmbH
+* Carsten Clauss, ParTec Cluster Competence Center
 * Florian Kluge, Universität Augsburg
 * Stefan Lankes, RWTH Aachen University
 * Timothy G. Mattson, Intel Labs
 * Jörg Nolte, BTU Cottbus
 * Lena Oden, Argonne National Laboratory
 * Antonio J. Peña, Barcelona Supercomputing Center
+* Swann Perarnau,  Argonne National Laboratory
 * Andreas Polze, Hasso-Plattner-Institute
-* Pablo Reble, Intel Labs
+* Pablo Reble, Intel Corporation
 * Bettina Schnor, University of Potsdam
 * Oliver Sinnen, University of Auckland
 * Christian Terboven, RWTH Aachen University
