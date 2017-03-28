@@ -68,7 +68,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Lena Oden, Argonne National Laboratory
 * Antonio J. Peña, Barcelona Supercomputing Center
 * Andreas Polze, Hasso-Plattner-Institute
-* Pablo Reble, RWTH Aachen University
+* Pablo Reble, Intel Labs
 * Bettina Schnor, University of Potsdam
 * Oliver Sinnen, University of Auckland
 * Christian Terboven, RWTH Aachen University
