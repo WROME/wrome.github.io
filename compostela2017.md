@@ -9,6 +9,7 @@ header-img: "img/compostela.jpg"
 
 ### News
 
+* April 4, 2017: The keynote will be delivered by [Professor Binoy Ravindran, VirginiaTech](https://www.ece.vt.edu/people/profile/ravindran).
 * March 22, 2017: Workshop website is now open<br>Photo by sporras [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAyuntamiento_de_Santiago_de_Compostela.jpg)
 
 ### Background
