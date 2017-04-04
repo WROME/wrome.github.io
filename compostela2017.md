@@ -65,7 +65,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * Stefan Lankes, RWTH Aachen University
 * Timothy G. Mattson, Intel Labs
 * Jörg Nolte, BTU Cottbus
-* Lena Oden, Argonne National Laboratory
+* Lena Oden, Jülich Supercomputing Centre
 * Antonio J. Peña, Barcelona Supercomputing Center
 * Swann Perarnau,  Argonne National Laboratory
 * Andreas Polze, Hasso-Plattner-Institute
