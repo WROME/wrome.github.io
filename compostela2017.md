@@ -9,6 +9,7 @@ header-img: "img/compostela.jpg"
 
 ### News
 
+* April 28, 2017: Submission deadline extended to May 12, 2017.
 * April 4, 2017: The keynote with the title *"Popcorn Linux: System Software for Heterogeneous Multicore Architectures"* will be delivered by [Professor Binoy Ravindran, VirginiaTech](https://www.ece.vt.edu/people/profile/ravindran).
 * March 22, 2017: Workshop website is now open<br>Photo by sporras [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAyuntamiento_de_Santiago_de_Compostela.jpg)
 
@@ -52,7 +53,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 
 ### Important Dates
 
-* May 5, 2017: Submission deadline
+* <del>May 5</del> May 12, 2017: Submission deadline
 * June 16, 2017: Notification of acceptance
 * July 21, 2017: Workshop paper (for informal workshop proceedings)
 * August 28/29, 2017: ROME'17 Workshop
