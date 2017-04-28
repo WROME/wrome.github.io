@@ -56,7 +56,7 @@ For the workshop, we will prepare hand-outs with the accepted papers. The revise
 * <del>May 5</del> May 12, 2017: Submission deadline
 * June 16, 2017: Notification of acceptance
 * July 21, 2017: Workshop paper (for informal workshop proceedings)
-* August 28/29, 2017: ROME'17 Workshop
+* August 28, 2017: ROME'17 Workshop
 * October 3, 2017: Workshop camera-ready papers due
 
 ### Program Committee
