@@ -8,7 +8,7 @@ header-img: "img/grenoble.jpg"
 ## held in conjunction with [Euro-Par 2016](https://europar2016.inria.fr "Euro-Par 2016"), August 22 - August 26, 2016, Grenoble, France
 
 ### News
-* June 1, 2016: All papers are now available on Springer’s [website](http://dx.doi.org/10.1007/978-3-319-58943-5).
+* June 1, 2017: All papers are now available on Springer’s [website](http://dx.doi.org/10.1007/978-3-319-58943-5).
 * July 7, 2016: Publishing the preliminary program
 * July 1, 2016: The workshop is scheduled to August 23, 2016.
 * May 3, 2016: Submission deadline extended to May 16, 2016.
