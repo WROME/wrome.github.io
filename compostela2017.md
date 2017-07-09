@@ -9,8 +9,8 @@ header-img: "img/compostela.jpg"
 
 ### News
 
+* July 9, 2017: The keynote with the title *"Diverse Workloads need Specialized System Software: An approach of Multi-kernels and Application Containers"* will be deliveres by [Balazs Gerofi, System Software Research Team, RIKEN Advanced Institute for Computational Science](https://www-sys-aics.riken.jp/Members/gerofi.html)
 * April 28, 2017: Submission deadline extended to May 12, 2017.
-* April 4, 2017: The keynote with the title *"Popcorn Linux: System Software for Heterogeneous Multicore Architectures"* will be delivered by [Professor Binoy Ravindran, VirginiaTech](https://www.ece.vt.edu/people/profile/ravindran).
 * March 22, 2017: Workshop website is now open<br>Photo by sporras [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAyuntamiento_de_Santiago_de_Compostela.jpg)
 
 ### Background
