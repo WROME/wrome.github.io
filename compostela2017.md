@@ -9,6 +9,7 @@ header-img: "img/compostela.jpg"
 
 ### News
 
+* July 21, 2017: Publishing the preliminary program
 * July 9, 2017: The keynote with the title *"Diverse Workloads need Specialized System Software: An approach of Multi-kernels and Application Containers"* will be deliveres by [Balazs Gerofi, System Software Research Team, RIKEN Advanced Institute for Computational Science](https://www-sys-aics.riken.jp/Members/gerofi.html)
 * April 28, 2017: Submission deadline extended to May 12, 2017.
 * March 22, 2017: Workshop website is now open<br>Photo by sporras [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAyuntamiento_de_Santiago_de_Compostela.jpg)
@@ -38,9 +39,30 @@ Authors from all related disciplines are invited to submit unpublished papers re
 * Interfaces for performance and power analysis on many-core systems
 * Runtime support for power-aware many-core computing
 
-### Program
+### Preliminary program
 
-TBD
+* Session 1 *
+
+* 11:00 - 11:15: Welcome speech and announcements
+* 11:15 - 12:00: Balazs Gerofi - Diverse Workloads need Specialized System Software: An approach of Multi-kernels and Application Containers (keynote)
+* 12:00 – 12:30: Thomas Ilsche, Marcus Hähnel, Robert Schöne, Mario Bielert and Daniel Hackenberg - Powernightmares: The Challenge of Efficiently Using Sleep States on Multi-Core Systems
+* 12:30 - 13:00: Adrian Garcia-Garcia, Juan Carlos Saez and Manuel Prieto-Matias - Delivering fairness on asymmetric multicore systems via contention-aware scheduling
+ 
+** Lunch **
+
+* Session 2 *
+
+* 14:30 - 15:00: Frank Feinbube, Max Plauth, Marius Knaust and Andreas Polze - Data Partitioning Strategies for Stencil Computations on NUMA Systems
+* 15:00 - 15:30: Robert Kuban, Randolf Rotta and Jörg Nolte - Help your Busy Neighbors: Dynamic Multicasts over Static Topologies
+* 15:30 – 16:00: TBA (invited talk)
+ 
+**Break**
+
+* Session 3 (PISCES) *
+
+* 16:30 – 17:00: Jose A. Pascual, Caroline Concatto, Joshua Lant and Javier Navaridas - On the Effects of Data-aware Allocation on Fully Distributed Storage Systems for Exascale
+* 17:00 – 17:30: Juan Piernas and Pilar González-Férez - Efficient Implementation of Data Objects in the OSD+-based Fusion Parallel File System.
+
 
 ### Paper Submission, Registration, and Publication
 
