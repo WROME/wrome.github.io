@@ -41,16 +41,16 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 ### Preliminary program
 
-* Session 1 *
+**Session 1**
 
 * 11:00 - 11:15: Welcome speech and announcements
 * 11:15 - 12:00: Balazs Gerofi - Diverse Workloads need Specialized System Software: An approach of Multi-kernels and Application Containers (keynote)
 * 12:00 – 12:30: Thomas Ilsche, Marcus Hähnel, Robert Schöne, Mario Bielert and Daniel Hackenberg - Powernightmares: The Challenge of Efficiently Using Sleep States on Multi-Core Systems
 * 12:30 - 13:00: Adrian Garcia-Garcia, Juan Carlos Saez and Manuel Prieto-Matias - Delivering fairness on asymmetric multicore systems via contention-aware scheduling
  
-** Lunch **
+**Lunch**
 
-* Session 2 *
+**Session 2**
 
 * 14:30 - 15:00: Frank Feinbube, Max Plauth, Marius Knaust and Andreas Polze - Data Partitioning Strategies for Stencil Computations on NUMA Systems
 * 15:00 - 15:30: Robert Kuban, Randolf Rotta and Jörg Nolte - Help your Busy Neighbors: Dynamic Multicasts over Static Topologies
@@ -58,7 +58,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
  
 **Break**
 
-* Session 3 (PISCES) *
+**Session 3 (PISCES)**
 
 * 16:30 – 17:00: Jose A. Pascual, Caroline Concatto, Joshua Lant and Javier Navaridas - On the Effects of Data-aware Allocation on Fully Distributed Storage Systems for Exascale
 * 17:00 – 17:30: Juan Piernas and Pilar González-Férez - Efficient Implementation of Data Objects in the OSD+-based Fusion Parallel File System.
