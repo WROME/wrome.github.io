@@ -59,10 +59,10 @@ Authors from all related disciplines are invited to submit unpublished papers re
  
 **Break**
 
-**Session 3 (PISCES)**
+**Session 3**
 
-* 16:30 – 17:00: Jose A. Pascual, Caroline Concatto, Joshua Lant and Javier Navaridas - On the Effects of Data-aware Allocation on Fully Distributed Storage Systems for Exascale
-* 17:00 – 17:30: Juan Piernas and Pilar González-Férez - Efficient Implementation of Data Objects in the OSD+-based Fusion Parallel File System.
+* 16:30 – 17:00: Jose A. Pascual, Caroline Concatto, Joshua Lant and Javier Navaridas - On the Effects of Data-aware Allocation on Fully Distributed Storage Systems for Exascale (moved from PISCES workshop)
+* 17:00 – 17:30: Juan Piernas and Pilar González-Férez - Efficient Implementation of Data Objects in the OSD+-based Fusion Parallel File System (moved from PISCES workshop)
 
 
 ### Paper Submission, Registration, and Publication
