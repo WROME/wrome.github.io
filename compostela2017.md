@@ -55,7 +55,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 * 14:30 - 15:00: Frank Feinbube, Max Plauth, Marius Knaust and Andreas Polze - Data Partitioning Strategies for Stencil Computations on NUMA Systems
 * 15:00 - 15:30: Robert Kuban, Randolf Rotta and Jörg Nolte - Help your Busy Neighbors: Dynamic Multicasts over Static Topologies
-* 15:30 – 16:00: TBA (invited talk)
+* 15:30 – 16:00: Michael Voss: Expressing multiple levels of parallelism in C++ using Intel® Threading Building Blocks (invited talk)
  
 **Break**
 
