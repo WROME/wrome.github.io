@@ -40,7 +40,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
 * Interfaces for performance and power analysis on many-core systems
 * Runtime support for power-aware many-core computing
 
-### Preliminary program
+### Program
 
 **Session 1**
 
