@@ -42,6 +42,8 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 ### Program
 
+The workshop is scheduled on Monday, August 28, 2017, in **room A4**.
+
 **Session 1**
 
 * 11:00 - 11:15: Welcome speech and announcements
