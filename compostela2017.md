@@ -46,17 +46,17 @@ The workshop is scheduled on Monday, August 28, 2017, in **room A4**.
 
 **Session 1**
 
-* 11:00 - 11:15: Welcome speech and announcements
-* 11:15 - 12:00: Balazs Gerofi - Diverse Workloads need Specialized System Software: An approach of Multi-kernels and Application Containers (keynote)
-* 12:00 – 12:30: Thomas Ilsche, Marcus Hähnel, Robert Schöne, Mario Bielert and Daniel Hackenberg - Powernightmares: The Challenge of Efficiently Using Sleep States on Multi-Core Systems
-* 12:30 - 13:00: Adrian Garcia-Garcia, Juan Carlos Saez and Manuel Prieto-Matias - Delivering fairness on asymmetric multicore systems via contention-aware scheduling
+* 11:00 - 11:15: [Welcome speech and announcements](/slides/rome17_intro.pdf)
+* 11:15 - 12:00: Balazs Gerofi - [Diverse Workloads need Specialized System Software: An approach of Multi-kernels and Application Containers (keynote)](/slides/rome17_gerofi.pdf)
+* 12:00 – 12:30: Thomas Ilsche, Marcus Hähnel, Robert Schöne, Mario Bielert and Daniel Hackenberg - [Powernightmares: The Challenge of Efficiently Using Sleep States on Multi-Core Systems](/slides/rome17_bielert.pdf)
+* 12:30 - 13:00: Adrian Garcia-Garcia, Juan Carlos Saez and Manuel Prieto-Matias - [Delivering fairness on asymmetric multicore systems via contention-aware scheduling](/slides/rome17_jcsaez.pdf)
  
 **Lunch**
 
 **Session 2**
 
-* 14:30 - 15:00: Frank Feinbube, Max Plauth, Marius Knaust and Andreas Polze - Data Partitioning Strategies for Stencil Computations on NUMA Systems
-* 15:00 - 15:30: Robert Kuban, Randolf Rotta and Jörg Nolte - Help your Busy Neighbors: Dynamic Multicasts over Static Topologies
+* 14:30 - 15:00: Frank Feinbube, Max Plauth, Marius Knaust and Andreas Polze - [Data Partitioning Strategies for Stencil Computations on NUMA Systems](/slides/rome17_plauth.pdf)
+* 15:00 - 15:30: Robert Kuban, Randolf Rotta and Jörg Nolte - [Help your Busy Neighbors: Dynamic Multicasts over Static Topologies](/slides/rome17_kuban.pdf)
 * 15:30 – 16:00: Michael Voss: Expressing multiple levels of parallelism in C++ using Intel® Threading Building Blocks (invited talk)
  
 **Break**
