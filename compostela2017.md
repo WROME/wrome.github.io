@@ -63,8 +63,8 @@ The workshop is scheduled on Monday, August 28, 2017, in **room A4**.
 
 **Session 3**
 
-* 16:30 – 17:00: Jose A. Pascual, Caroline Concatto, Joshua Lant and Javier Navaridas - On the Effects of Data-aware Allocation on Fully Distributed Storage Systems for Exascale (moved from PISCES workshop)
-* 17:00 – 17:30: Juan Piernas and Pilar González-Férez - Efficient Implementation of Data Objects in the OSD+-based Fusion Parallel File System (moved from PISCES workshop)
+* 16:30 – 17:00: Jose A. Pascual, Caroline Concatto, Joshua Lant and Javier Navaridas - [On the Effects of Data-aware Allocation on Fully Distributed Storage Systems for Exascale[(/slides/rome17-navaridas.pdf) (moved from PISCES workshop)
+* 17:00 – 17:30: Juan Piernas and Pilar González-Férez - [Efficient Implementation of Data Objects in the OSD+-based Fusion Parallel File System](/slides/rome17-piernas.pdf) (moved from PISCES workshop)
 * 17:30 - 17:35: Workshop Closing
 
 ### Paper Submission, Registration, and Publication
