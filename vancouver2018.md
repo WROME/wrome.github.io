@@ -47,7 +47,7 @@ Submitted manuscripts may not exceed ten (10) single-spaced double-column pages 
 
 The IEEE conference style templates for MS Word and LaTeX provided by IEEE eXpress Conference Publishing are available for download. [See the latest versions here.](https://www.ieee.org/conferences_events/conferences/publishing/templates.html)
 
-Upload your submission to our [submission server](https://www.tbd.org) in PDF format. Accepted manuscripts will be included in the IPDPS workshop proceedings.
+Upload your submission to our [submission server](https://easychair.org/conferences/?conf=rome2018) in PDF format. Accepted manuscripts will be included in the IPDPS workshop proceedings.
 
 ### Important Dates
 
