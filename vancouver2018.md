@@ -15,14 +15,14 @@ header-img: "img/vancouver.jpg"
 
 Since the beginning of the multicore era, parallel processing has become prevalent across the board. However, in order to continue a performance increase, a further evolutionary step is currently ongoing by moving away from common multicores towards innovative heterogeneous many-core architectures with deep memory hierarchies on a large scale. Such systems, equipped with a significantly higher number of cores per chip than multicores, pose challenges in both hardware and software design. On the hardware side, complex on-chip networks, scratchpads, hybrid memory cubes, non-volatile memory and stacked memory, as well as deep cache-hierarchies and novel cache-coherence strategies currently enrich the respective research areas. However, the ROME workshop focuses on the software side because without complying system software, runtime and operating system support, all these new hardware facilities cannot be exploited. Hence, the challenges in hardware/software co-design are to step beyond traditional approaches and to venture new approaches for runtime, middleware and operating system designs in order to exploit the theoretically available performance of upcoming hardware features as effectively and energy-consciously as possible.
 
-In addition, there is currently a strong trend to converge the areas of cloud and high-performance computing. Classical cloud techniques will soon be used in the are of high-performance computing and vise-versa. Projects like Singularity, for example, show the benefits of OS-level virtualization for high-performance computing, whereas high-performance interconnects are able to accelerate cloud applications.
+In addition, there is currently a strong trend to converge the areas of cloud and high-performance computing. Classical cloud techniques will soon be used in the area of high-performance computing and vise-versa. Projects like Singularity, for example, show the benefits of OS-level virtualization for high-performance computing, whereas high-performance interconnects are able to accelerate cloud applications.
 
 ### Topics
 
 Authors from all related disciplines are invited to submit unpublished papers regarding their work on many-core related software research regarding operating systems and runtime environments in the area of cloud and high-performance computing. The topics of interest include, but are not limited to:
 
-* Virtualization techniques (e. g. containers) for High-Performance Computing
-* System software to converge Cloud and High-Performance Computing
+* Virtualization techniques (e. g. containers) for high-performance computing
+* System software to converge cloud and high-performance computing
 * Lightweight/specialized operating systems, unikernels and hypervisors
 * New approaches for operating systems on novel (heterogeneous) many-core architectures
 * System software for enabling parallelism at an extreme scale
