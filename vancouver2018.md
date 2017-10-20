@@ -58,7 +58,18 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 
 ### Program Committee
 
-TBD
+* Balazs Gerofi, University of Tokyo, Japan
+* Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
+* Stefan Lankes, RWTH Aachen University, Germany
+* Jörg Nolte, BTU Cottbus, Germany
+* Lena Oden, Juelich Supercomputing Centre, Germany
+* Antonio J. Peña, Barcelona Supercomputing Center, Spain
+* Bettina Schnor, University of Potsdam, Germany
+* Oliver Sinnen, University of Auckland, New Zealand
+* Swann Perarnau, Argonne National Laboratory, USA
+* Josef Weidendorfer, TU München, Germany
+* Carsten Weinhold, TU Dresden, Germany
+* TBD
 
 ### Workshop Organizers
 
