@@ -58,6 +58,7 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 
 ### Program Committee
 
+* Jens Breitbart, Robert Bosch GmbH
 * Balazs Gerofi, University of Tokyo, Japan
 * Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
 * Stefan Lankes, RWTH Aachen University, Germany
