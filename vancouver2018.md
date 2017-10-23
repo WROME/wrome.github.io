@@ -77,4 +77,4 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 
 * Dr. rer. nat. Stefan Lankes, [Institute for Automation of Complex Power Systems](http://www.acs.eonerc.rwth-aachen.de/), [E.ON Energy Research Center](http://www.eonerc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de/), Germany, E-mail: <slankes@eonerc.rwth-aachen.de>
 * Dr.-Ing. Carsten Clauss, [ParTec Cluster Competence Center GmbH](http://www.par-tec.com/), Germany, E-mail: <clauss@par-tec.com>
-* Dr. rer. nat. Jens Breitbart, Robert Bosch GmbH, Germany
+* [Dr. rer. nat. Jens Breitbart](http://www.jensbreitbart.de/), Robert Bosch GmbH, Germany
