@@ -62,6 +62,7 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 * Balazs Gerofi, University of Tokyo, Japan
 * Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
 * Stefan Lankes, RWTH Aachen University, Germany
+* Arthur Maccabe, Oak Ridge National Laboratory, USA
 * Jörg Nolte, BTU Cottbus, Germany
 * Lena Oden, Juelich Supercomputing Centre, Germany
 * Antonio J. Peña, Barcelona Supercomputing Center, Spain
