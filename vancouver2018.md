@@ -66,10 +66,11 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 * Jörg Nolte, BTU Cottbus, Germany
 * Lena Oden, Juelich Supercomputing Centre, Germany
 * Antonio J. Peña, Barcelona Supercomputing Center, Spain
+* Swann Perarnau, Argonne National Laboratory, USA
 * Juan Carlos Saez, Complutense University of Madrid, Spain
 * Bettina Schnor, University of Potsdam, Germany
 * Oliver Sinnen, University of Auckland, New Zealand
-* Swann Perarnau, Argonne National Laboratory, USA
+* Christian Terboven, RWTH Aachen University, Germany
 * Josef Weidendorfer, TU München, Germany
 * Carsten Weinhold, TU Dresden, Germany
 * Robert Wisniewski, Intel, USA
