@@ -32,7 +32,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
 * Extensions for operating systems and virtualization techniques to support emerging memory technologies
 * System noise analysis and prevention
 * Message-passing interfaces and middleware for many-core systems
-* Heterogeneity- and/or hierarchy-aware many-core middleware
+* Heterogeneity-, modularity- and/or hierarchy-aware many-core middleware
 * Software stacks for new concepts of compute acceleration by GPUs, FPGAs and many-core architecture
 * Interfaces for performance and power analysis
 * Runtime support and kernel extensions for power-aware many-core computing
