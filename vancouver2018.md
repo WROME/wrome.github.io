@@ -67,13 +67,14 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 * Lena Oden, Juelich Supercomputing Centre, Germany
 * Antonio J. Peña, Barcelona Supercomputing Center, Spain
 * Swann Perarnau, Argonne National Laboratory, USA
+* Pablo Reble, Intel Corporation, USA
 * Juan Carlos Saez, Complutense University of Madrid, Spain
 * Bettina Schnor, University of Potsdam, Germany
 * Oliver Sinnen, University of Auckland, New Zealand
 * Christian Terboven, RWTH Aachen University, Germany
 * Josef Weidendorfer, TU München, Germany
 * Carsten Weinhold, TU Dresden, Germany
-* Robert Wisniewski, Intel, USA
+* Robert Wisniewski, Intel Corporation, USA
 
 ### Workshop Organizers
 
