@@ -60,6 +60,7 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 
 * Jens Breitbart, Robert Bosch GmbH, Germany
 * Balazs Gerofi, University of Tokyo, Japan
+* Brice, Goglin, INRIA, France
 * Carsten Clauss, ParTec Cluster Competence Center GmbH, Germany
 * Stefan Lankes, RWTH Aachen University, Germany
 * Arthur Maccabe, Oak Ridge National Laboratory, USA
