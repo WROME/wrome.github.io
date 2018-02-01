@@ -9,6 +9,7 @@ header-img: "img/vancouver.jpg"
 
 ### News
 
+* January 31, 2018: Submission deadline extended to Feburayr 12, 2018.
 * October 16, 2017: Workshop website is now open<br>Photo by Thom Quine [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vancouver_horizon_oct15.jpg)
 
 ### Background
