@@ -53,7 +53,7 @@ Upload your submission to our [submission server](https://easychair.org/conferen
 ### Important Dates
 
 * <del>January 30, 2018</del> February 12, 2018: Submission deadline
-* February 23, 2018: Notification of acceptance
+* <del>February 23, 2018</del> March 5, 2018: Notification of acceptance
 * March 18, 2018: Workshop camera-ready papers due
 * May 25, 2018: ROME'18 Workshop
 
