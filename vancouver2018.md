@@ -9,6 +9,7 @@ header-img: "img/vancouver.jpg"
 
 ### News
 
+* May, 1, 2018: Publishing the preliminary program
 * January 31, 2018: Submission deadline extended to Feburayr 12, 2018.
 * October 16, 2017: Workshop website is now open<br>Photo by Thom Quine [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vancouver_horizon_oct15.jpg)
 
@@ -38,9 +39,25 @@ Authors from all related disciplines are invited to submit unpublished papers re
 * Interfaces for performance and power analysis
 * Runtime support and kernel extensions for power-aware many-core computing
 
-### Program
+### Preliminary Program
 
-TBD
+**Keynote**
+
+* 08:40 - 08:45: Welcome speech and announcements
+* 08:45 - 9:30: Keynote by Sang-Hoon Kim, Virginia Tech, USA, *Popcorn Linux: System Software for Heterogeneous Hardware*
+
+**Coffee Break**
+
+**Session 1: Runtime systems for novel many-core architectures**
+
+* 10:00 - 10:30: Brice Goglin: *Memory Footprint of Locality Information on Many-Core Platforms*
+* 10:30 - 11:00: Soramichi Akiyama, Takahiro Hirofuchi and Ryousei Takano: *Diagnosing Performance Fluctuations of High-throughput Software for Multi-core CPUs*
+
+**Session 2: Message-passing interfaces and middleware for many-core systems**
+
+* 11:00 - 11:30: Surabhi Jain, Gengbin Zheng, Maria Garzaran, Jim Cownie, Taru Doodi and Terry Wilmarth: *Parallelizing MPI using Tasks for Hybrid Programming Models*
+* 11:30 - 12:00: Lee Savoie, David Lowenthal, Bronis de Supinski and Kathryn Mohror: *A Study of Network Quality of Service in Many-Core MPI Applications*
+* 12:00 - 12:30: Invited talk by Karl Fuerlinger: *The good, the bad and the ugly: Experiences with developing a PGAS runtime on top of MPI-3*
 
 ### Paper Submission, Paper Style, and Proceedings
 
