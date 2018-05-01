@@ -41,7 +41,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 ### Preliminary Program
 
-**Keynote**
+**Keynote and Invited talks**
 
 * 08:40 - 08:45: Welcome speech and announcements
 * 08:45 - 9:30: Keynote by Sang-Hoon Kim, Virginia Tech, USA, *Popcorn Linux: System Software for Heterogeneous Hardware*
