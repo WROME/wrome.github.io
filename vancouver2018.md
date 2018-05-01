@@ -43,7 +43,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 **Keynote**
 
-* 08:4	0 - 08:45: Welcome speech and announcements
+* 08:40 - 08:45: Welcome speech and announcements
 * 08:45 - 9:30: Keynote by Sang-Hoon Kim, Virginia Tech, USA, *Popcorn Linux: System Software for Heterogeneous Hardware*
 * 09:30 - 10:00: Invited talk by Karl Fuerlinger: *The good, the bad and the ugly: Experiences with developing a PGAS runtime on top of MPI-3*
 
