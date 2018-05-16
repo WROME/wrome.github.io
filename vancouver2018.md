@@ -41,6 +41,8 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 ### Preliminary Program
 
+The workshop is scheduled on Friday, May 25, 2018.
+
 **Keynote and Invited talks**
 
 * 08:40 - 08:45: Welcome speech and announcements
