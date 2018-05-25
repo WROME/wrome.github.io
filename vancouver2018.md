@@ -41,7 +41,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 ### Preliminary Program
 
-The workshop is scheduled on Friday, May 25, 2018 in *Kitsilano Ballroom C*.
+The workshop is scheduled on Friday, May 25, 2018 in **Kitsilano Ballroom C**.
 
 **Keynote and Invited talks**
 
