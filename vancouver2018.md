@@ -46,20 +46,20 @@ The workshop is scheduled on Friday, May 25, 2018 in **Kitsilano Ballroom C**.
 **Keynote and Invited talks**
 
 * 08:40 - 08:45: Welcome speech and announcements
-* 08:45 - 9:30: Keynote by Sang-Hoon Kim, Virginia Tech, USA, *Popcorn Linux: System Software for Heterogeneous Hardware*
-* 09:30 - 10:00: Invited talk by Karl Fuerlinger: *The good, the bad and the ugly: Experiences with developing a PGAS runtime on top of MPI-3*
+* 08:45 - 9:30: Keynote by Sang-Hoon Kim, Virginia Tech, USA, [Popcorn Linux: System Software for Heterogeneous Hardware](slides/rome18_kim.pdf)
+* 09:30 - 10:00: Invited talk by Karl Fuerlinger: [The good, the bad and the ugly: Experiences with developing a PGAS runtime on top of MPI-3](slides/rome18_fuerlinger.pdf)
 
 **Coffee Break**
 
 **Session 1: Runtime systems for novel many-core architectures**
 
-* 10:30 - 11:00: Brice Goglin: *Memory Footprint of Locality Information on Many-Core Platforms*
-* 11:00 - 11:30: Soramichi Akiyama, Takahiro Hirofuchi and Ryousei Takano: *Diagnosing Performance Fluctuations of High-throughput Software for Multi-core CPUs*
+* 10:30 - 11:00: Brice Goglin: [Memory Footprint of Locality Information on Many-Core Platforms](slides/rome18_goglin.pdf)
+* 11:00 - 11:30: Soramichi Akiyama, Takahiro Hirofuchi and Ryousei Takano: [Diagnosing Performance Fluctuations of High-throughput Software for Multi-core CPUs](slides/rome18_akiyama.pdf)
 
 **Session 2: Message-passing interfaces and middleware for many-core systems**
 
 * 11:30 - 12:00: Surabhi Jain, Gengbin Zheng, Maria Garzaran, Jim Cownie, Taru Doodi and Terry Wilmarth: *Parallelizing MPI using Tasks for Hybrid Programming Models*
-* 12:00 - 12:30: Lee Savoie, David Lowenthal, Bronis de Supinski and Kathryn Mohror: *A Study of Network Quality of Service in Many-Core MPI Applications*
+* 12:00 - 12:30: Lee Savoie, David Lowenthal, Bronis de Supinski and Kathryn Mohror: [A Study of Network Quality of Service in Many-Core MPI Applications](slides/rome18_savoie.pdf)
 
 ### Paper Submission, Paper Style, and Proceedings
 
