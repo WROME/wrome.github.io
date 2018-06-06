@@ -58,7 +58,7 @@ The workshop is scheduled on Friday, May 25, 2018 in **Kitsilano Ballroom C**.
 
 **Session 2: Message-passing interfaces and middleware for many-core systems**
 
-* 11:30 - 12:00: Surabhi Jain, Gengbin Zheng, Maria Garzaran, Jim Cownie, Taru Doodi and Terry Wilmarth: *Parallelizing MPI using Tasks for Hybrid Programming Models*
+* 11:30 - 12:00: Surabhi Jain, Gengbin Zheng, Maria Garzaran, Jim Cownie, Taru Doodi and Terry Wilmarth: [Parallelizing MPI using Tasks for Hybrid Programming Models](slides/rome18_jain.pdf)
 * 12:00 - 12:30: Lee Savoie, David Lowenthal, Bronis de Supinski and Kathryn Mohror: [A Study of Network Quality of Service in Many-Core MPI Applications](slides/rome18_savoie.pdf)
 
 ### Paper Submission, Paper Style, and Proceedings
