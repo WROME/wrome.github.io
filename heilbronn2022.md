@@ -7,7 +7,7 @@ header-img: "img/heilbronn.jpg"
 
 ## Workshop on Runtime, Operating Systems and Middleware for Emerging Systems (ROME)
 
-### held in conjunction with ARC 2022<br>September 13 - 15, 2022<br>Heilbronn, Germany
+### held in conjunction with ARCS 2022<br>September 13 - 15, 2022<br>Heilbronn, Germany
 
 ### News
 
