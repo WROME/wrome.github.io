@@ -11,7 +11,7 @@ header-img: "img/heilbronn.jpg"
 
 ### News
 
-* June 6, 2022: * June 6, 2022: Workshop website is now open<br>Photo by K. Jähne [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heilbronn_Innenstadt_u_Wartberg_20050918.jpg)
+* June 6, 2022: Workshop website is now open<br>Photo by K. Jähne [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heilbronn_Innenstadt_u_Wartberg_20050918.jpg)
 
 ### Background
 
