@@ -51,7 +51,7 @@ TBD
 ### Workshop Organizers
 
 * [Jens Breitbart](http://www.jensbreitbart.de/), Robert Bosch GmbH, Germany
-* Carsten Clauss, [ParTec GmbH](http://www.par-tec.com), Germany
+* Carsten Clauss, [ParTec AG](http://www.par-tec.com), Germany
 * Stefan Lankes, [Institute for Automation of Complex Power Systems](http://www.acs.eonerc.rwth-aachen.de/), [E.ON Energy Research Center](http://www.eonerc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de/), Germany
 
 ### [Contact](mailto:slankes@eonerc.rwth-aachen.de)
