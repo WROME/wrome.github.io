@@ -7,7 +7,7 @@ header-img: "img/heilbronn.jpg"
 
 ## Workshop on Runtime, Operating Systems and Middleware for Emerging Systems (ROME)
 
-### held in conjunction with ARCS 2022<br>September 13 - 15, 2022<br>Heilbronn, Germany
+### held in conjunction with [ARCS 2022](https://arcs-conference.org)<br>September 13 - 15, 2022<br>Heilbronn, Germany
 
 ### News
 
@@ -36,10 +36,7 @@ Authors from all related disciplines are invited to submit unpublished papers re
 
 ### Paper Submission, Paper Style, and Proceedings
 
-The workshop will be held as special track within the main conference ARCS and the papers will be published as part of the ARCS proceedings.
-Authors are invited to submit original, unpublished research papers via [EasyChair](https://easychair.org/conferences/?conf=arcs2022).
-ROME 2022 uses a double-blind reviewing system. Manuscripts must not  identify authors or their affiliation. When citing own work, it must be done in a neutral form (i.e. avoiding "our", "we", "previous work" etc.). Papers must be submitted in PDF format, formatted according to Springer [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and must not exceed 15 pages, including references, appendicies and figures.
-
+The workshop will be held as special track within the main conference [ARCS](https://arcs-conference.org) and the papers will be published as part of the ARCS proceedings.cAuthors are invited to submit original, unpublished research papers via [EasyChair](https://easychair.org/conferences/?conf=arcs2022). ROME 2022 uses a double-blind reviewing system. Manuscripts must not  identify authors or their affiliation. When citing own work, it must be done in a neutral form (i.e. avoiding "our", "we", "previous work" etc.). Papers must be submitted in PDF format, formatted according to Springer [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and must not exceed 15 pages, including references, appendicies and figures.
 
 ### Important Dates
 
