@@ -46,7 +46,11 @@ The workshop will be held as special track within the main conference [ARCS](htt
 
 ### Program Committee
 
-* TBD
+* Brice Goglin, INRIA, France 
+* Jörg Nolte, BTU Cottbus, Germany
+* Pierre Olivier, University of Manachster, United Kingdom
+* Oliver Sinnen, University of Auckland, New Zealand
+* TBC
 
 ### Workshop Organizers
 
