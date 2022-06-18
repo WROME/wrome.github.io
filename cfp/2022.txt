@@ -1,11 +1,12 @@
 The 8th Workshop on Runtime, Operating Systems and Middleware for Emerging
-Systems (ROME) will be held as a special track of ARCS 2022 in Heilbronn,
-Germany on September 13 - 15, 2022.
+Systems (ROME) will be held as a special track of the 35th GI/ITG
+International Conference on Architecture of Computing Systems (ARCS) in
+Heilbronn, Germany on September 13 - 15, 2022.
 
 https://wrome.github.io/heilbronn2022/
 
-Authors from all related disciplines are invited to submit unpublished papers of
-their work on software research regarding operating systems and runtime
+Authors from all related disciplines are invited to submit unpublished papers
+of their work on software research regarding operating systems and runtime
 environments in the domain of high-performance and parallel computing. The
 topics of interest include, but are not limited to:
 
@@ -26,12 +27,12 @@ Paper Submission, Paper Style, and Proceedings
 
 The workshop will be held as special track within the main conference ARCS and
 the papers will be published as part of the ARCS proceedings. Authors are
-invited to submit original, unpublished research papers via EasyChair. ROME 2022
-uses a double-blind reviewing system. Manuscripts must not identify authors or
-their affiliation. When citing own work, it must be done in a neutral form
-(i.e., avoiding “our”, “we”, “previous work”, etc.). Papers must be submitted in
-PDF format, formatted according to Springer LNCS style and must not exceed 15
-pages, including references, appendices and figures.
+invited to submit original, unpublished research papers via EasyChair. ROME
+2022 uses a double-blind reviewing system. Manuscripts must not identify
+authors or their affiliation. When citing own work, it must be done in a
+neutral form (i.e., avoiding “our”, “we”, “previous work”, etc.). Papers must
+be submitted in PDF format, formatted according to Springer LNCS style and must
+not exceed 15 pages, including references, appendices and figures.
 
 Important Dates
 
