@@ -20,7 +20,7 @@ High-performance computing itself is a well-established scientific domain. Howev
 
 ### Topics and Call for Papers
 
-Authors from all related disciplines are invited to submit unpublished papers regarding their work on software research regarding operating systems and runtime environments in the domain of high-performance and parallel computing. The topics of interest include, but are not limited to:
+Authors from all related disciplines are invited to submit unpublished papers of their work on software research regarding operating systems and runtime environments in the domain of high-performance and parallel computing. The topics of interest include, but are not limited to:
 
 * New approaches for operating systems on novel (heterogeneous) architectures
 * Lightweight/specialized operating systems, unikernels and hypervisors
