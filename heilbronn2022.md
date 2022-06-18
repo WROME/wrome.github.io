@@ -24,14 +24,14 @@ Authors from all related disciplines are invited to submit unpublished papers of
 
 * New approaches for operating systems on novel (heterogeneous) architectures
 * Lightweight/specialized operating systems, unikernels and hypervisors
-* Virtualization techniques (e. g. containers) for high-performance computing
+* Virtualization techniques (e. g. containers) for HPC
 * Management, deployment of virtualized environments and orchestration
 * System software for enabling parallelism at an extreme scale
 * Message-passing interfaces and middleware for extreme scale computing
 * Heterogeneity-, modularity- and/or hierarchy-aware middleware for HPC
 * Software stacks for new concepts of compute acceleration by GPUs, FPGAs and many-core architecture
 * Middleware for performance and power analysis on massive parallel systems
-* Runtime support and kernel extensions for power-aware high-performance computing
+* Runtime support and kernel extensions for power-aware HPC
 * System noise analysis and prevention for massive parallel systems
 
 ### Paper Submission, Paper Style, and Proceedings
