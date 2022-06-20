@@ -50,6 +50,7 @@ The workshop will be held as special track within the main conference [ARCS](htt
 * Jörg Nolte, BTU Cottbus, Germany
 * Pierre Olivier, University of Manachster, United Kingdom
 * Oliver Sinnen, University of Auckland, New Zealand
+* Christian Terboven, RWTH Aachen University
 * TBC
 
 ### Workshop Organizers
