@@ -51,7 +51,7 @@ The workshop will be held as special track within the main conference [ARCS](htt
 * Pierre Olivier, University of Manachster, United Kingdom
 * Oliver Sinnen, University of Auckland, New Zealand
 * Christian Terboven, RWTH Aachen University, Germany
-* TBC
+* Josef Weidendorfer, Leibniz Supercomputing Centre, Germany
 
 ### Workshop Organizers
 
