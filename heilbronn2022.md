@@ -40,7 +40,8 @@ The workshop will be held as special track within the main conference [ARCS](htt
 
 ### Important Dates
 
-* July 10, 2022: Submission deadline
+* <del>July 10</del> July 27, 2022: Submission deadline
+* July 20, 2022: Abstract registration deadline
 * August 21, 2022: Notification of acceptance
 * September 4, 2022: Camera-ready deadline
 
