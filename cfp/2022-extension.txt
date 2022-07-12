@@ -49,4 +49,10 @@ Program Committee
     Christian Terboven, RWTH Aachen University, Germany
     Josef Weidendorfer, Leibniz Supercomputing Centre, Germany
 
+Workshop Organizers
+
+    Jens Breitbart, Robert Bosch GmbH, Germany
+    Carsten Clauss, ParTec AG, Germany
+    Stefan Lankes, Institute for Automation of Complex Power Systems, E.ON
+		   Energy Research Center, RWTH Aachen University, Germany
 
