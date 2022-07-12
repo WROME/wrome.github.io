@@ -1,0 +1,52 @@
+The 8th Workshop on Runtime, Operating Systems and Middleware for Emerging
+Systems (ROME) will be held as a special track of the 35th GI/ITG
+International Conference on Architecture of Computing Systems (ARCS) in
+Heilbronn, Germany on September 13 - 15, 2022.
+
+https://wrome.github.io/heilbronn2022/
+
+Authors from all related disciplines are invited to submit unpublished papers
+of their work on software research regarding operating systems and runtime
+environments in the domain of high-performance and parallel computing. The
+topics of interest include, but are not limited to:
+
+* New approaches for operating systems on novel (heterogeneous) architectures
+* Lightweight/specialized operating systems, unikernels and hypervisors
+* Virtualization techniques (e. g. containers) for HPC
+* Management, deployment of virtualized environments and orchestration
+* System software for enabling parallelism at an extreme scale
+* Message-passing interfaces and middleware for extreme scale computing
+* Heterogeneity-, modularity- and/or hierarchy-aware middleware for HPC
+* Software stacks for new concepts of compute acceleration by GPUs, FPGAs and
+  many-core architecture
+* Middleware for performance and power analysis on massive parallel systems
+* Runtime support and kernel extensions for power-aware HPC
+* System noise analysis and prevention for massive parallel systems
+
+Paper Submission, Paper Style, and Proceedings
+
+The workshop will be held as special track within the main conference ARCS and
+the papers will be published as part of the ARCS proceedings. Authors are
+invited to submit original, unpublished research papers via EasyChair. ROME
+2022 uses a double-blind reviewing system. Manuscripts must not identify
+authors or their affiliation. When citing own work, it must be done in a
+neutral form (i.e., avoiding “our”, “we”, “previous work”, etc.). Papers must
+be submitted in PDF format, formatted according to Springer LNCS style and must
+not exceed 15 pages, including references, appendices and figures.
+
+Important Dates
+
+    July 27, 2022: Submission deadline
+    August 21, 2022: Notification of acceptance
+    September 4, 2022: Camera-ready deadline
+
+Program Committee
+
+    Brice Goglin, INRIA, France
+    Jörg Nolte, BTU Cottbus, Germany
+    Pierre Olivier, University of Manachster, United Kingdom
+    Oliver Sinnen, University of Auckland, New Zealand
+    Christian Terboven, RWTH Aachen University, Germany
+    Josef Weidendorfer, Leibniz Supercomputing Centre, Germany
+
+
